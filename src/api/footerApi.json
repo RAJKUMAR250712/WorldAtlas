@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "icon": "FaPhoneAlt",
+    "title": "Call Us",
+    "details": "+91 8292136073"
+  },
+  {
+    "id": 2,
+    "icon": "MdOutlineMail",
+    "title": "Email",
+    "details": "rajk451630@gmail.com"
+  },
+  {
+    "id": 3,
+    "icon": "FaLocationDot",
+    "title": "Location",
+    "details": "Mohali, Punjab, India"
+  }
+]

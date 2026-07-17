@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": "1.46 Billion",
+    "interestingFacts": "India is the world's largest democracy and is famous for its rich culture and the Taj Mahal."
+  },
+  {
+    "id": 2,
+    "countryName": "United States",
+    "capital": "Washington, D.C.",
+    "population": "347 Million",
+    "interestingFacts": "The United States is known for its innovation, diverse landscapes, and the Statue of Liberty."
+  },
+  {
+    "id": 3,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": "42 Million",
+    "interestingFacts": "Canada is famous for its beautiful lakes, maple syrup, and stunning natural scenery."
+  },
+  {
+    "id": 4,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": "123 Million",
+    "interestingFacts": "Japan is famous for its advanced technology, cherry blossoms, and rich traditions."
+  },
+  {
+    "id": 5,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": "27 Million",
+    "interestingFacts": "Australia is home to unique wildlife, the Great Barrier Reef, and beautiful beaches."
+  },
+  {
+    "id": 6,
+    "countryName": "Germany",
+    "capital": "Berlin",
+    "population": "84 Million",
+    "interestingFacts": "Germany is well known for its engineering, historic castles, and Oktoberfest festival."
+  },
+  {
+    "id": 7,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": "212 Million",
+    "interestingFacts": "Brazil is famous for the Amazon Rainforest, Carnival, and its love of football."
+  },
+  {
+    "id": 8,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": "69 Million",
+    "interestingFacts": "France is known for the Eiffel Tower, world-class cuisine, and rich history."
+  },
+  {
+    "id": 9,
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": "1.41 Billion",
+    "interestingFacts": "China is famous for the Great Wall, ancient culture, and rapid technological growth."
+  },
+  {
+    "id": 10,
+    "countryName": "South Africa",
+    "capital": "Pretoria",
+    "population": "64 Million",
+    "interestingFacts": "South Africa is known for its wildlife, Table Mountain, and cultural diversity."
+  }
+]
